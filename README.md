@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://github.com/SsjZabster/SsjZabster/blob/main/imgbin.png)
